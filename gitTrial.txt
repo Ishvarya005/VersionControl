@@ -1,0 +1,1 @@
+This is the first draft, now we create a git local repository and start tracking some of the changes
